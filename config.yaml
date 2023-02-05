@@ -1,0 +1,6 @@
+chatGPTAccountPool:
+  - email: "mrzouning812@gmail.com"
+    password: "aa159@qq"
+    isGoogleLogin: false
+chatPrivateTiggerKeyword: "%"
+openAIProxy: ""
